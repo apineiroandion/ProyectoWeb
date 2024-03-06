@@ -61,14 +61,24 @@ nav ul li a:hover {
     border: 2px solid #F2E205;
     margin: 1%;
     height: 500px;
-    width: 1000px;
+    width: 795px;
 
 
 }
 
 .texto {
-    width: 900px;
-    display: flex;
+    width: 300px;
+    position: absolute;
+    top: 40%;
+    left: 12%;
     text-align: center;
     color: #F2E205; /* Color del texto */
+}
+
+#Peliculas {
+    border-color: #F2E205;
+}
+
+.celda {
+    padding: 10px;
 }
