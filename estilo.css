@@ -82,3 +82,14 @@ nav ul li a:hover {
 .celda {
     padding: 10px;
 }
+
+footer{
+    margin: 1%;
+    border: solid;
+    border-color: #F2E205;
+}
+
+#imagenFooter{
+    width: 100%;
+    height: 250px;
+}
