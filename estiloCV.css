@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black; /* Establece el fondo negro */
+  }
+  
+  .contenido {
+    margin-top: 20px; /* Define los márgenes interiores */
+    margin-bottom: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: white; /* Cambia el color de fondo del contenedor principal */
+  }
+
+  #titulo {
+    text-align: center;
+  }
+
+  .cabecera {
+    display: block;
+    margin: 2%;
+  }
